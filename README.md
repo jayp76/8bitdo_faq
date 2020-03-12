@@ -1,4 +1,4 @@
-FAQ's for 8bitdo controller's (see Wiki https://github.com/jayp76/8bitdo_faq/wiki)
+
 
 Welcome to the unofficial 8bitdo_faq Wiki!
 
@@ -7,7 +7,7 @@ Feel free to add information or corrections. This is work in progress. I might a
 
 Attention: I refer globally for button combos to START button as function, which corresponds to controllers with Power button to Power. 
 
-[FAQ All controllers](https://github.com/jayp76/8bitdo_faq/wiki/FAQ-All-controllers)
+[FAQ All controllers](https://github.com/jayp76/8bitdo_faq/blob/master/faq_all_controllers)
 
 [FAQ Legacy Controllers](https://github.com/jayp76/8bitdo_faq/wiki/FAQ-Legacy-Controllers)
 
@@ -20,4 +20,7 @@ Attention: I refer globally for button combos to START button as function, which
 [Oddities](https://github.com/jayp76/8bitdo_faq/wiki/Oddities)
 
 [More FAQ's by user "clach04"](https://github.com/jayp76/8bitdo_faq/wiki/More-FAQ's-by-user-%22clach04%22)
+
+
+FAQ's for 8bitdo controller's (see Wiki https://github.com/jayp76/8bitdo_faq/wiki)
 
