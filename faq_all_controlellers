@@ -1,0 +1,35 @@
+## Firmware Update combo:
+L + R + START -> Connect to USB
+
+### Except the Lite controller due to missing POWER button 
+L + R + HOME
+
+## Rescue Flash (Alternative Flash Combo, for e.g. when controller does not Power up by START)
+Holding L + R -> Connect to USB
+
+## Best practise:
+Use the individual installer for your corresponding controller, instead of the "Upgrade Tool" (at this point it is buggy and sometime bricks controllers -> See Rescue Flash)
+
+## Delete Bluetooth Pairing and re-pair
+Press and hold the SELECT/Pair button 2 to 3 seconds, LED will rapidly blink
+
+## **STAR** and **HOME** Buttons
+May not be usable on different consoles/systems. For e.g. the MiSTer project.
+
+## Force Power off / factory reset
+To restore to factory settings (or force power off) hold down the START/Power button for 8 seconds.
+
+## HOME button combos
+HOME button combos and controllers with HOME Button can trigger the HOME/In-game menu on different consoles
+like the Nintendo Switch, Playstation Classic Mini, Mega Drive/Genesis Classic Mini, NES Classic Mini and the Retron 5.
+Look for the possible button combos in the FAQ sections.
+
+## Web folders for Firmware/Manuals downloads (and older releases)
+* Controllers: https://download.8bitdo.com/Firmware/Controller/
+* GBros Adapter: https://download.8bitdo.com/Firmware/Adapter/
+* N30 Arcade Stick: https://download.8bitdo.com/Firmware/Joystick/
+* Legacy N30/F30 pro: https://download.8bitdo.com/Firmware/Pro/
+* Legacy N30/F30 pro (old): https://download.8bitdo.com/Firmware/Pro/Extend/
+* Retro Receiver: https://download.8bitdo.com/Firmware/Receiver/
+* Manuals: https://download.8bitdo.com/Manual/
+* Tools: https://download.8bitdo.com/Tools/
